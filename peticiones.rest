@@ -1,0 +1,5 @@
+GET http://localhost:3000/api/cotizador
+
+
+###
+GET http://localhost:3000/api/cotizador/651cc9e8e24cc3f48dac38b6
